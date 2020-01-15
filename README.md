@@ -12,6 +12,8 @@ We all have heard the Adage, "A Picture is worth a thousand words". As of 2018, 
 
 Over the years, due to the increased internet connectivity across the globe, images and videos have contributed to the big data than the traditional textual information. This project uses statistical methods to predict the engagement of the National Geographic page using the captions (text) and labels (labels extracted from the image). More importantly, the project explore whether "A Picture is worth a thousand words" or not! 
 
+Reference: https://sproutsocial.com/insights/social-media-statistics/ 
+
 ## Evaluation 
 
 The various models built was evaluated using the Area Under the Receiver Operating Characteristic curve (AU-ROC). 
