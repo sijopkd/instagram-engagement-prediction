@@ -52,7 +52,8 @@ The various models built was evaluated using the Area Under the Receiver Operati
 
 2) Use other features from the google vision API 
 
-### Coming back to our question, Clearly the labels from google visions results adds a boost in the engagement prediction! Indeed, a picutre is worth a thousand words!!
+### Coming back to our question: Clearly the labels from google visions results adds a boost in the engagement prediction! 
+### Indeed, a picutre is worth a thousand words!!
 
 ![Image description](picture_thousand.jpg) <br />
 
