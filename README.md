@@ -1,6 +1,6 @@
 # Instagram Engagement Prediction
 
-##*Is a Picture Worth a Thousand Words? *
+## *Is a Picture Worth a Thousand Words?*
 
 ![Image description](instagram_logo.jpg) <br />
 
