@@ -29,7 +29,7 @@ The various models built was evaluated using the Area Under the Receiver Operati
 ## Models built
 1) Logistic regression using TF-IDF features from Captions --> AU-ROC 0.78 
 2) Logistic regression using TF-IDF features from Labels --> AU-ROC 0.80
-3) Logistic regression using TF-IDF features from both Captions and Lables --> AU-ROC 0.82
+3) Logistic regression using TF-IDF features from both Captions and Labels --> AU-ROC 0.82
 
 ## Results 
 
