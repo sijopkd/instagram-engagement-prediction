@@ -2,7 +2,7 @@
 
 ## *Is a Picture Worth a Thousand Words?*
 
-![Image description](instagram_logo.jpg) <br />
+![Image description](/media/instagram_logo.jpg) <br />
 
 
 
@@ -57,6 +57,6 @@ The various models built was evaluated using the Area Under the Receiver Operati
 ### Coming back to our question: Clearly the labels from google visions results adds a boost in the engagement prediction! 
 ### Indeed, a picutre is worth a thousand words!!
 
-![Image description](picture_thousand.jpg) <br />
+![Image description](/media/picture_thousand.jpg) <br />
 
 Source: https://www.istockphoto.com/photo/one-picture-is-worth-a-thousand-words-gm471407786-62749412
